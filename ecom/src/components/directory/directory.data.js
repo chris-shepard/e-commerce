@@ -33,4 +33,4 @@ const sections = [
   }
 ];
 
-module.exports = sections;
+export default sections;
